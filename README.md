@@ -5,4 +5,5 @@ A timer developed using Python Programming Language with features such as Start,
 Spyder
 
 # Packages Used:
-time, tkinter
+time
+tkinter
